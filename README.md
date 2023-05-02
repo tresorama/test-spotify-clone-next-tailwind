@@ -1,3 +1,15 @@
+## Stack
+
+Main Framework: [Next.js 13 (pages directory)](https://nextjs.org/)
+Icons: [heroicons](https://heroicons.com/)
+CSS: [tailwind](https://tailwindcss.com/)
+
+
+
+
+
+## Next JS Default README
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
